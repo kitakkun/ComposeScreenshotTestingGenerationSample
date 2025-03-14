@@ -1,0 +1,9 @@
+*.iml
+/.idea
+.kotlin
+.gradle
+.DS_Store
+/build
+local.properties
+build
+**/src/*/screenshotTest/reference
